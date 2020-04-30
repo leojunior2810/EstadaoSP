@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b2abaa5-df81-406d-96aa-5ef092996b1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZS4v91351jxRZUfeP9ZNTOnWkj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.CadastroUsuarioTest.testCadastroNovoUsuario">
+    <configuration name="CadastroUsuarioTest.testCadastroNovoUsuario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="br.com.leonildojunior.estadao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CadastroUsuarioTest" />
+      <option name="METHOD_NAME" value="testCadastroNovoUsuario" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExAssinanteTest.testExAssinante" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="br.com.leonildojunior.estadao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ExAssinanteTest" />
+      <option name="METHOD_NAME" value="testExAssinante" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HardPaywallTest.testHardPaywall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="br.com.leonildojunior.estadao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.HardPaywallTest" />
+      <option name="METHOD_NAME" value="testHardPaywall" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pages in br.com.leonildojunior.estadao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="br.com.leonildojunior.estadao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pages" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests in br.com.leonildojunior.estadao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="br.com.leonildojunior.estadao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CadastroUsuarioTest.testCadastroNovoUsuario" />
+        <item itemvalue="JUnit.HardPaywallTest.testHardPaywall" />
+        <item itemvalue="JUnit.tests in br.com.leonildojunior.estadao" />
+        <item itemvalue="JUnit.pages in br.com.leonildojunior.estadao" />
+        <item itemvalue="JUnit.ExAssinanteTest.testExAssinante" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b2abaa5-df81-406d-96aa-5ef092996b1c" name="Default Changelist" comment="" />
+      <created>1584819388372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584819388372</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="305" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584835886311">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="698" y="305" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1584835886311" />
+    <state width="1440" height="297" key="GridCell.Tab.0.bottom" timestamp="1586894960722">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1584905144690" />
+    <state width="1440" height="297" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1585539912080" />
+    <state width="1440" height="297" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1586894960722" />
+    <state width="1440" height="297" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585530628967" />
+    <state width="1440" height="297" key="GridCell.Tab.0.center" timestamp="1586894960720">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1584905144688" />
+    <state width="1440" height="297" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1585539912079" />
+    <state width="1440" height="297" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1586894960720" />
+    <state width="1440" height="297" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585530628966" />
+    <state width="1440" height="297" key="GridCell.Tab.0.left" timestamp="1586894960720">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1584905144687" />
+    <state width="1440" height="297" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1585539912078" />
+    <state width="1440" height="297" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1586894960720" />
+    <state width="1440" height="297" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585530628962" />
+    <state width="1440" height="297" key="GridCell.Tab.0.right" timestamp="1586894960721">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1584905144689" />
+    <state width="1440" height="297" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1585539912079" />
+    <state width="1440" height="297" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1586894960721" />
+    <state width="1440" height="297" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585530628966" />
+    <state x="208" y="43" key="SettingsEditor" timestamp="1585530776129">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585530776129" />
+    <state x="490" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1588251452590">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="-950" y="322" key="com.intellij.ide.util.TipDialog/-1440.23.1440.877/0.23.1920.1057@-1440.23.1440.877" timestamp="1584976194452" />
+    <state x="653" y="383" key="com.intellij.ide.util.TipDialog/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1584896412633" />
+    <state x="490" y="322" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1586894878552" />
+    <state x="490" y="322" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1588251452590" />
+    <state x="469" y="218" width="670" height="561" key="search.everywhere.popup" timestamp="1585530752728">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1584896846098" />
+    <state x="469" y="218" width="670" height="561" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1585530752728" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/HardPaywallTest.java</url>
+          <line>19</line>
+          <properties class="tests.HardPaywallTest" method="testHardPaywall">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
